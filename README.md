@@ -1,7 +1,7 @@
 # LackyVault
 
 <p align="center">
-  <img src="../src/resources/icons/logo.png" alt="LackyVault Logo" width="200"/>
+  <img src="https://github.com/Lackadaisical-Security/LackyVault/blob/main/lacky_vault.ico" alt="LackyVault Logo" width="200"/>
 </p>
 
 <p align="center">
